@@ -6,10 +6,14 @@
 
 <!-- My Top Languages -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uPorter&theme=shades-of-purple&langs_count=80&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<iframe src="https://open.spotify.com/embed/track/4s5MyMeElBghgUmSihtic9" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 <!--
 **uPorter/uPorter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<iframe src="https://open.spotify.com/embed/track/4s5MyMeElBghgUmSihtic9" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
 
 Here are some ideas to get you started:
 
