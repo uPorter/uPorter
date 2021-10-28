@@ -7,7 +7,7 @@
 <!-- My Top Languages -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uPorter&theme=shades-of-purple&langs_count=80&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
+[![Spotify](https://open.spotify.com/embed/track/4s5MyMeElBghgUmSihtic9)](https://open.spotify.com/collection/tracks)
 
 <!--
 **uPorter/uPorter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
