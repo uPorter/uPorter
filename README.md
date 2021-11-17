@@ -1,4 +1,5 @@
-### 📫 How to reach me : <img src="https://dcbadge.vercel.app/api/shield/567778516947697675?style=flat&theme=discord" />
+### 📫 How to reach me . . .
+<img src="https://dcbadge.vercel.app/api/shield/567778516947697675?style=flat&theme=discord" />
 
 ### 🔭 I’m currently working on : uRenderEngine
 
