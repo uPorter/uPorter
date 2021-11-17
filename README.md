@@ -7,7 +7,7 @@
 <!-- My Top Languages -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uPorter&theme=shades-of-purple&langs_count=80&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-# 📫 How to reach me : <img src="https://dcbadge.vercel.app/api/shield/bot/567778516947697675?style=flat&theme=discord" />
+# 📫 How to reach me : <img src="https://dcbadge.vercel.app/api/shield/567778516947697675?style=flat&theme=discord" />
 
 # Music 🎵
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=t6glhfkpd7b69rm7m2fdzj26n&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
@@ -15,7 +15,7 @@
 <!--
 **uPorter/uPorter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-#📫 How to reach me : <img src="https://dcbadge.vercel.app/api/shield/bot/567778516947697675?style=flat&theme=discord" />
+#📫 How to reach me : <img src="https://dcbadge.vercel.app/api/shield/567778516947697675?style=flat&theme=discord" />
 
 <iframe src="https://open.spotify.com/embed/track/4s5MyMeElBghgUmSihtic9" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
