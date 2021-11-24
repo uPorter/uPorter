@@ -9,7 +9,7 @@
 
 
 <!-- Github Stats -->
-[![My Epic Gamer Stats](https://github-readme-stats.vercel.app/api?username=uPorter&theme=dark&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My Epic Gamer Stats](https://github-readme-stats.vercel.app/api?username=uPorterr&theme=dark&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- My Top Languages -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uporter&theme=dark&langs_count=80&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
