@@ -3,7 +3,7 @@
 
 ### 🔭 I’m currently working on : uRenderEngine
 
-### 🌱 I’m currently learning : C++,C
+### 🌱 I’m currently learning : C++, C
 
 ### Fancy Stats ⚡
 
