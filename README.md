@@ -1,9 +1,8 @@
 ### 📫 How to reach me . . .
-<img src="https://dcbadge.vercel.app/api/shield/567778516947697675?style=flat&theme=discord" />
 
-### 🔭 I’m currently working on : uRenderEngine
+### 🔭 I’m currently working on : MetaOS
 
-### 🌱 I’m currently learning : C++, C
+### 🌱 I’m currently learning : C++, C, ReactOS
 
 ### Fancy Stats ⚡
 
