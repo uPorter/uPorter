@@ -2,10 +2,7 @@
 
 ### 🔭 I’m currently working on : MetaOS
 
-### 🌱 I’m currently learning : C++, C, ReactOS
-
-### Fancy Stats ⚡
-
+### 🌱 I’m currently learning : C++, C, React.JS
 <!--
 **uPorter/uPorter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
